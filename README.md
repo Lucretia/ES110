@@ -8,6 +8,15 @@ If you can help to make these better, please do.
 
 ## Notes
 
+#### KEP-692
+
+This is the motherboard to the whole piano. The two connectors we are interested in are CN11 (bottom left) and CN7 (Bottom right).
+
+[![KEP-692](https://i.imgur.com/RsQSE3i.jpg)](https://imgur.com/RsQSE3i)
+
+* CN11 - The control panel, KEP-643 and KEP-644 connects here.
+* CN7  - The keybed connects here.
+
 ### KEP-643
 
 On the motherboard, pin 2 of CN11 has continuity with the positive side of C88 electrolytic capacitor next to the SI-8008TM step down converter, so this is 5v, right? But pin 2 of CN6 on KEP-643 which is connected via a cable, is not connected to anything., as can be seen here (pin 1 is on the right):
