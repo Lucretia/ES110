@@ -19,7 +19,7 @@ This is the motherboard to the whole piano. The two connectors we are interested
 
 #### Keybed connector (CN7)
 
-The pinout seems to match that of the Kawai ES4/ES1, which can be seen on page 30 of the [service manual](https://www.manualslib.com/download/1249302/Kawai-Es4-Es1p.html). Page 31 shows the key table.
+The pinout seems to match that of the Kawai ES4/ES1, which can be seen on page 30 of the [service manual](./docs/es4es1p.pdf). Page 31 shows the key table.
 
 ### KEP-643
 
