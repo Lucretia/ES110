@@ -10,6 +10,10 @@ If you can help to make these better, please do.
 
 ## Notes
 
+The +5v signal to pin 2 of CN7/CN11 is taken as true as there is continuity between these pins and the positive leg of the electrolytic capacitor next to CN7. This cap is connected to the step-down converter.
+
+The power input is centre positive.
+
 ### KEP-692
 
 This is the motherboard to the whole piano. The two connectors we are interested in are CN11 (bottom left) and CN7 (Bottom right).
