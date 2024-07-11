@@ -4,6 +4,8 @@ Reverse engineering and drawing schematics in KiCAD for a broken Kawai ES110 in 
 
 Kawai, as with other manufacturers used to provide schematics in their service manuals, now they have a walled garden.
 
+The aim here is to document enough to create a new board for a new project.
+
 If you can help to make these better, please do.
 
 ## Notes
