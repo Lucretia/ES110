@@ -18,7 +18,7 @@ The power input is centre positive.
 
 This is the motherboard to the whole piano. The two connectors we are interested in are CN11 (bottom left) and CN7 (Bottom right).
 
-[![KEP-692](https://i.imgur.com/RsQSE3i.jpg)](https://imgur.com/RsQSE3i)
+[![KEP-692](https://i.imgur.com/kw21f87.jpg)](https://imgur.com/kw21f87)
 
 * CN11 - The control panel, KEP-643 and KEP-644 connects here.
 * CN7  - The keybed connects here.
