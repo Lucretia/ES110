@@ -25,7 +25,9 @@ The pinout seems to match that of the Kawai ES4/ES1, which can be seen on page 3
 
 On the motherboard, pin 2 of CN11 has continuity with the positive side of C88 electrolytic capacitor next to the SI-8008TM step down converter, so this is 5v, right? But pin 2 of CN6 on KEP-643 which is connected via a cable, is not connected to anything., as can be seen here (pin 1 is on the right):
 
-![KEP-643](https://i.imgur.com/2M9kh3h.jpg)
+![KEP-643](https://imgur.com/GNB6Hiq)
+
+![KEP-643 rear](https://i.imgur.com/2M9kh3h.jpg)
 
 ### KEP-644
 
