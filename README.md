@@ -57,6 +57,8 @@ This would then result in the following key matrix:
 
 ![ES4 Key Matrix](./imgs/ES4_Key_Switch_Matrix.png)
 
+In fact, I wonder if KD1 is pin 8 of CN7, but this depend entirely on the output of U15 which all enter U4, the Kawai K023-FP tone generator custom ASIC.
+
 ## Disclaimer
 
 I cannot guarantee the accuracy of these schematics.
