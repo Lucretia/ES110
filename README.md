@@ -27,6 +27,18 @@ On the motherboard, pin 2 of CN11 has continuity with the positive side of C88 e
 
 ![KEP-643](https://i.imgur.com/2M9kh3h.jpg)
 
+### KEP-644
+
+This is the second of the control panel boards, this has the power button/led and the volume slider.
+
+The slider seems to be a custom Alps potentiometer, labelled 825C-10KB.
+
+The capacitor is connected to the button via a resistor and seems to be a debounce circuit.
+
+![KEP-644](https://imgur.com/Xlv9WfC)
+
+![KEP-644 rear](https://imgur.com/ov3erFO)
+
 ## Disclaimer
 
 I cannot guarantee the accuracy of these schematics.
