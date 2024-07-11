@@ -47,6 +47,16 @@ The capacitor is connected to the button via a resistor and seems to be a deboun
 
 ![KEP-644 rear](https://i.imgur.com/ov3erFO.jpg)
 
+## The key matrix
+
+By examining the layout of CN7 in the image above, i.e. where the resistors are aligned with which pins, they do conect to, btw, see the schematics. they just seem to match the pinout of the ES4 connector. It could well be different, the order of hte pins may differ for example.
+
+![ES4 Schematic](./imgs/ES4_KKB-015.png)
+
+This would then result in the following key matrix:
+
+![ES4 Key Matrix](./imgs/ES4_Key_Switch_Matrix.png)
+
 ## Disclaimer
 
 I cannot guarantee the accuracy of these schematics.
