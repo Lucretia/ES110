@@ -59,6 +59,20 @@ This would then result in the following key matrix:
 
 In fact, I wonder if KD1 is pin 8 of CN7, but this depend entirely on the output of U15 which all enter U4, the Kawai K023-FP tone generator custom ASIC.
 
+## TODO
+
+To make the first part of this project a reality, i.e. MIDI controller, the following needs to be determined:
+
+* Control panel needs to be tested with a real Arduino/AVR/whatever program.
+* MIDI schematics from CN3 (KEP-641) to the MIDI out.
+* MIDI schematics from CN10 (KEP-692) to CN3 (KEP-641) via the purple 7 pin cable, this will be the cable which transmits the BT MIDI as CN10 is next to the BT antennae.
+* I'm pretty sure the damper pedal signals go through CN3 or CN1 on KEP-641 back to the mainboard.
+
+To make the second part of this project a reality, i.e. the synthesiser board, the following needs to be worked out:
+
+* Audio schematics from CN3 (KEP-692) to CN1 (KEP-641), the blue 6 pin cable.
+* Headphone sockets connector, CN2 (KEP-641).
+
 ## Disclaimer
 
 I cannot guarantee the accuracy of these schematics.
