@@ -14,6 +14,8 @@ If you can help to make these better, please do.
 
 * The power input is centre positive.
 
+* I need to double check the KKB-034 schematics again as I'm not sure I have them correct.
+
 ### KEP-692
 
 This is the motherboard to the whole piano. The two connectors we are interested in are CN11 (bottom left) and CN7 (Bottom right).
