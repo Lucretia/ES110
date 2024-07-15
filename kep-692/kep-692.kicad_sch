@@ -4537,6 +4537,16 @@
 		)
 		(uuid "1cc6e8ec-56bf-474a-bd96-de7e4cb78f13")
 	)
+	(text "+5v"
+		(exclude_from_sim no)
+		(at 36.068 113.284 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "23b02837-a555-4c51-bc65-8ed25c137561")
+	)
 	(text "SA5"
 		(exclude_from_sim no)
 		(at 368.3 38.1 90)
@@ -4566,6 +4576,16 @@
 			)
 		)
 		(uuid "2da70536-eef6-48f4-97c1-9c26c577c745")
+	)
+	(text "This is connected to something."
+		(exclude_from_sim no)
+		(at 799.846 322.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3359f0f8-1dc6-49bd-9898-10e0d072aa91")
 	)
 	(text "KD5 (S2)"
 		(exclude_from_sim no)
@@ -4607,6 +4627,16 @@
 		)
 		(uuid "3dbc5638-c587-473c-98d1-56005b072809")
 	)
+	(text "Damper"
+		(exclude_from_sim no)
+		(at 787.908 327.914 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "45deca04-5b7e-416b-8bf4-20d120584609")
+	)
 	(text "Debug port"
 		(exclude_from_sim no)
 		(at 789.432 421.64 0)
@@ -4647,6 +4677,16 @@
 		)
 		(uuid "6a70f2f5-a1f7-4e47-860c-6fbd32c57a03")
 	)
+	(text "To CN1 (KEP-641)\nvia blue cable "
+		(exclude_from_sim no)
+		(at 41.148 139.446 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6d49ded8-b90c-4d0d-b491-2ce335c45ec5")
+	)
 	(text "SA2"
 		(exclude_from_sim no)
 		(at 360.426 38.1 90)
@@ -4656,6 +4696,16 @@
 			)
 		)
 		(uuid "7068a387-d3ba-44cc-aec3-722751730380")
+	)
+	(text "Damper"
+		(exclude_from_sim no)
+		(at 787.908 325.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "878e28ba-b76e-4caf-8958-365e752eaec7")
 	)
 	(text "GND"
 		(exclude_from_sim no)
@@ -4786,6 +4836,16 @@
 			)
 		)
 		(uuid "e10b3b71-f2a7-45ab-9679-8571a3871d04")
+	)
+	(text "To CN3 (KEP-641)\nvia purple cable"
+		(exclude_from_sim no)
+		(at 784.098 344.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e2280992-e87f-46ad-b725-5b8ad8517785")
 	)
 	(text "GND"
 		(exclude_from_sim no)
