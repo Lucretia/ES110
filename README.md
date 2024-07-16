@@ -80,8 +80,8 @@ To make the second part of this project a reality, i.e. the synthesiser board, t
 
 ## Disclaimer
 
-I cannot guarantee the accuracy of these schematics.
+1. I cannot guarantee the accuracy of these schematics.
 
-They've been traced with a multimeter and by eye.
+2. They've been traced with a multimeter and by eye.
 
-I'm a programmer, not an EE.
+3. I'm a programmer, not an EE.
