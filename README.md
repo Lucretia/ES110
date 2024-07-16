@@ -75,8 +75,8 @@ To make the first part of this project a reality, i.e. MIDI controller, the foll
 
 To make the second part of this project a reality, i.e. the synthesiser board, the following needs to be worked out:
 
-* Audio schematics from CN3 (KEP-692) to CN1 (KEP-641), the blue 6 pin cable.
-* Headphone sockets connector, CN2 (KEP-641).
+* [ ] Audio schematics from CN3 (KEP-692) to CN1 (KEP-641), the blue 6 pin cable.
+* [ ] Headphone sockets connector, CN2 (KEP-641).
 
 ## Disclaimer
 
