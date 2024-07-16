@@ -65,10 +65,13 @@ In fact, I wonder if KD1 is pin 8 of CN7, but this depend entirely on the output
 
 To make the first part of this project a reality, i.e. MIDI controller, the following needs to be determined:
 
-* Control panel needs to be tested with a real Arduino/AVR/whatever program.
-* MIDI schematics from CN3 (KEP-641) to the MIDI out.
-* MIDI schematics from CN10 (KEP-692) to CN3 (KEP-641) via the purple 7 pin cable, this will be the cable which transmits the BT MIDI as CN10 is next to the BT antennae.
-* I'm pretty sure the damper pedal signals go through CN3 or CN1 on KEP-641 back to the mainboard.
+[ ] Control panel needs to be tested with a real Arduino/AVR/whatever program.
+[X] MIDI schematics from CN3 (KEP-641) to the MIDI out.
+[X] MIDI schematics from CN10 (KEP-692) to CN3 (KEP-641) via the purple 7 pin cable, this will be the cable which transmits the BT MIDI as CN10 is next to the BT antennae.
+[X] I'm pretty sure the damper pedal signals go through CN3 or CN1 on KEP-641 back to the mainboard.
+[ ] Put 5v through the MIDI out, pin 4, on CN3 (KEP-641), along with GND and +5v and test to see if 5v comes out of the MIDI port.
+[ ] Do the same in the opposite direction on the MIDI in port, and test on the voltage of pin 3 on CN3.
+[ ] Read the values from the damper on CN3, pins 5 & 6 to see what values come in.
 
 To make the second part of this project a reality, i.e. the synthesiser board, the following needs to be worked out:
 
